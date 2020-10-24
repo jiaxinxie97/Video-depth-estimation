@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flow-to-depth (FDNet) video-depth-estimation
 This is the implementation of paper
 
@@ -26,7 +25,3 @@ Then run
 ```bash
 python kitti_eval/eval_depth_general.py --kitti_dir=/path/to/raw/kitti/dataset/ or /path/to/downloaded/GoundTruth/npy/file/ --pred_file=/path/to/our/final/results/
 ```
-=======
-# video-depth-estimation
-The implemention of Video Depth Estimation by Fusing Flow-to-Depth Proposals
->>>>>>> eee72a206ee182fe30a6851464b448cf96631186
