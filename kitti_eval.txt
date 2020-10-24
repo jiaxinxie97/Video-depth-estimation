@@ -1,0 +1,24 @@
+./kitti_eval/eigen_final_results.npy
+   abs_rel,     sq_rel,        rms,    log_rms,      irmse,      SILog,         a1,         a2,        a3
+    0.0812,     0.4877,     3.6510,     0.1461,     0.0118,     0.1442,     0.9123,     0.9700,    0.9882
+
+./kitti_eval/eigen_final_results.npy
+   abs_rel,     sq_rel,        rms,    log_rms,      irmse,      SILog,         a1,         a2,        a3
+    0.0806,     0.5065,     3.7668,     0.1395,     0.0146,     0.1375,     0.9132,     0.9721,    0.9897
+
+./kitti_eval/eigen_final_results.npy
+   abs_rel,     sq_rel,        rms,    log_rms,      irmse,      SILog,         a1,         a2,        a3
+    0.0812,     0.4877,     3.6510,     0.1461,     0.0118,     0.1442,     0.9123,     0.9700,    0.9882
+
+./kitti_eval/eigen_final_results.npy
+   abs_rel,     sq_rel,        rms,    log_rms,      irmse,      SILog,         a1,         a2,        a3
+    0.0812,     0.4877,     3.6510,     0.1461,     0.0118,     0.1442,     0.9123,     0.9700,    0.9882
+
+./kitti_eval/eigen_final_results.npy
+   abs_rel,     sq_rel,        rms,    log_rms,      irmse,      SILog,         a1,         a2,        a3
+    0.0812,     0.4877,     3.6510,     0.1461,     0.0118,     0.1442,     0.9123,     0.9700,    0.9882
+
+./kitti_eval/eigen_final_results.npy
+   abs_rel,     sq_rel,        rms,    log_rms,      irmse,      SILog,         a1,         a2,        a3
+    0.0812,     0.4877,     3.6510,     0.1461,     0.0118,     0.1442,     0.9123,     0.9700,    0.9882
+
