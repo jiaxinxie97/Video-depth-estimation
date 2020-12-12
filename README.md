@@ -16,9 +16,9 @@ This codebase was developed and tested with Tensorflow 1.4.0 and Numpy 1.16.2
 ## Evaluation on KITTI Eigen Split
 IF you want to generate GroundTruth Depth from KITTI RAW data,  download KITTI dataset using this [script](http://www.cvlibs.net/download.php?file=raw_data_downloader.zip) provided on the official website.
 
-Meanwhile, we also provided GroundTruth Depth save in npy file,  download it from [here](https://drive.google.com/file/d/1Hzet3ev1Qpfcd5Ub-o7URUkJARd8Zg74/view?usp=sharing) 
+Meanwhile, we also provided GroundTruth Depth save in npy file,  download it from [here](https://drive.google.com/file/d/18WNghzKudLUXIbkrcf8YqH1N8Lpjqr4R/view?usp=sharing) 
 
-Our final results on KITTI Eigen is availible on [here](https://drive.google.com/file/d/1TV-4wmDiPzXsggsSDCDE4vvePPMAoG8A/view?usp=sharing)
+Our final results on KITTI Eigen is availible on [here](https://drive.google.com/file/d/18WNghzKudLUXIbkrcf8YqH1N8Lpjqr4R/view?usp=sharing)
 
 Then run
 
